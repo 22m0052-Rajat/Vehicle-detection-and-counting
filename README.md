@@ -1,5 +1,3 @@
-# 2.-Vehicle-Detection-Project
- 
 # Vehicle Detection and Counting
 
 This project demonstrates vehicle detection and counting using Haar cascade classifiers and OpenCV. It includes code to detect cars and buses in images and videos.
